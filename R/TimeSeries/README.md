@@ -18,3 +18,6 @@
 ## Spark
 - [x] An Introduction to Time Series with Team Apache : Safari Books Online
 - [x] Spark Fundamentals I - (BD095EN)  : Big Data University
+ 
+## Big Data
+- [x] Using Flume: Integrating Flume with Hadoop, HBase and Spark : Safari Books Online
