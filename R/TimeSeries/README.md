@@ -21,3 +21,4 @@
  
 ## Big Data
 - [x] Using Flume: Integrating Flume with Hadoop, HBase and Spark : Safari Books Online
+- [x] Using HBase for Real-time Access to Your Big Data - (BD035EN)  : Big Data University 
