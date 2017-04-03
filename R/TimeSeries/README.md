@@ -8,6 +8,8 @@
 
 - [ ] http://datahack.analyticsvidhya.com/contest/practice-problem-time-series
 
+- [ ] Machine Learning : https://www.youtube.com/user/victorlavrenko/playlists
+
 ## Cassandra
 - [x] Understanding Data Consistency in Cassandra  : http://www.datastax.com/resources/tutorials/data-consistency 
 
